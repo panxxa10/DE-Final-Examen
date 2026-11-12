@@ -24,3 +24,6 @@ Instrucciones reproducibles (prerrequisitos, despliegue, orden de carga, consult
 
 No se publican credenciales, archivos `.env` ni archivos de estado de Terraform. La infraestructura de AWS
 fue eliminada con `terraform destroy` (evidencia en `entregas/evidencias/eliminacion_terraform.txt`).
+
+## Hilo Claude
+https://claude.ai/share/e7b59cdc-244f-4a21-9752-7b1fd0063bfa
