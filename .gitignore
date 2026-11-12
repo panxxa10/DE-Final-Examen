@@ -1,0 +1,20 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+*.tfvars
+
+# Credenciales
+.env
+.env.*
+.aws/
+credentials
+*.pem
+*.key
+
+# Sistema y Python
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
